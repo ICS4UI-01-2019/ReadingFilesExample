@@ -1,0 +1,81 @@
+zelda_33
+zelda_33
+N true zelda_27
+E true zelda_34
+S false
+W true zelda_32
+zelda_32
+N false
+E true zelda_33
+S false
+W false
+zelda_34
+N false
+E false
+S false
+W true zelda_33
+zelda_27
+N true zelda_21
+E false
+S true zelda_33
+W false
+zelda_20
+N true zelda_14
+E true zelda_21
+S false
+W false
+zelda_21
+N true zelda_15
+E true zelda_22
+S true zelda_27
+W true zelda_20
+zelda_22
+N true zelda_16
+E false
+S false
+W true zelda_21
+zelda_13
+N false
+E true zelda_14
+S false
+W false
+zelda_14
+N false
+E true zelda_15
+S true zelda_20
+W true zelda_13
+zelda_15
+N true zelda_09
+E true zelda_16
+S true zelda_21
+W true zelda_14
+zelda_16
+N false
+E true zelda_17
+S true zelda_22
+W true zelda_15
+zelda_17
+N true zelda_11
+E false
+S false
+W true zelda_16
+zelda_09
+N true zelda_03
+E false
+S true zelda_15
+W false
+zelda_03
+N false
+E false
+S true zelda_09
+W true zelda_02
+zelda_11
+N false
+E true zelda_12
+S true zelda_17
+W false
+zelda_12
+N false
+E false
+S false
+W true zelda_12

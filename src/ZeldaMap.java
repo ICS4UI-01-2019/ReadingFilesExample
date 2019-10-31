@@ -62,6 +62,7 @@ public class ZeldaMap {
     public void move(int direction){
         if(canMove(direction)){
             String newRoomName = this.currentRoom.getNextRoomName(direction);
+            System.out.println(newRoomName);
             this.currentRoom = findRoom(newRoomName);
         }
     }
